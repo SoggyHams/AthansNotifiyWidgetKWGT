@@ -1,4 +1,4 @@
-# AthansNotifiyWidgetKWGT
+# Athan's Notifiy Widgets KWGT
 Get all of my notification widgets in one app.
 
 *KWGT and KWGT Pro Required.
