@@ -1,0 +1,17 @@
+I Starting up....
+I Preparing workspace
+D Exec: aapt v
+D Android Asset Packaging Tool, v0.2-
+I Unzipping resources
+I Extracted 235 files
+I Creating icons
+I Preparing manifest
+I Preparing strings and config
+I Preparing theme
+I Preparing widgets
+I Packaging resources
+D Exec: aapt package --min-sdk-version 21 --target-sdk-version 29 -0 .zip -0 .kwch -0 .komp -0 .kntf -0 .klwp -0 .kwgt -0 .klck -f -M /storage/emulated/0/Android/data/org.kustom.apkmaker/cache/build/AndroidManifest.xml -S /storage/emulated/0/Android/data/org.kustom.apkmaker/cache/build/res -I /data/user/0/org.kustom.apkmaker/files/resources/android.framework -F /storage/emulated/0/Android/data/org.kustom.apkmaker/cache/out-unsigned.apk -A assets
+I Packaging sources
+D Exec: aapt add -0 .zip -0 .kwch -0 .komp -0 .kntf -0 .klwp -0 .kwgt -0 .klck /storage/emulated/0/Android/data/org.kustom.apkmaker/cache/out-unsigned.apk classes.dex
+I Signing APK
+I Done.

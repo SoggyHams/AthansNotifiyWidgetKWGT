@@ -1,0 +1,35 @@
+{
+  "id": "athansnotifiywidgetkwgt",
+  "key": "qHoveV2wRlHivLRaOGMvTmTWiDOvRE+qxUui1azEAwXzlH1mj9/25/F95m4vKzyk",
+  "name": "Athan\u0027s Notifiy Widgets KWGT",
+  "author": "",
+  "description": "Get all of my notification widgets in one app\n*KWGT and KWGT Pro Required\n*LG versions are built for and tested on the LG V60 launcher use 3x2 KWGT widget and resize to full width before selecting\n*Nova version just 4x2 KWGT widget no resize required\n",
+  "pkg": "athansnotifiywidgetkwgt.kustom.pack",
+  "files": {
+    "widgets": [
+      "Notifiy_1LG.kwgt",
+      "Notifiy_1Nova.kwgt",
+      "Notifiy_202Nova.kwgt",
+      "Notifiy_203LG.kwgt"
+    ]
+  },
+  "keystore_manual": false,
+  "keystore_alias": "",
+  "keystore_password": "",
+  "keystore_alias_password": "",
+  "walls_json": "",
+  "walls_download_enabled": true,
+  "version_name": "1.702N.703LG",
+  "theme": "dark",
+  "adaptive_color": true,
+  "color_dark_accent": "#A9413F",
+  "color_dark_primary_dark": "#222222",
+  "color_dark_primary": "#000000",
+  "color_dark_primary_text": "#F0F0F0",
+  "color_dark_secondary_text": "#d0d0d0",
+  "color_light_accent": "#fff000",
+  "color_light_primary_dark": "#c0c0c0",
+  "color_light_primary": "#e0e0e0",
+  "color_light_primary_text": "#303030",
+  "color_light_secondary_text": "#505050"
+}
